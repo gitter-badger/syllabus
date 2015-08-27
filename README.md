@@ -1,4 +1,6 @@
 # Interface Design 2
+
+[![Join the chat at https://gitter.im/kcc-nma-art249/syllabus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kcc-nma-art249/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **The Full Web Design Process**
 
 ART 249 integrates the foundation level visual interface design skills introduced in ART 229 Interface Design I with the technical interface programming skills introduced in ART 128 Interface Programming I. Students go through the full creative design process for interaction design of analyzing, planning, designing, coding, testing, and launching a custom designed web standard compliant HTML/CSS static web site for a proposed client. Students document their findings through client documentation and defend their design decisions via presentations and critiques.
